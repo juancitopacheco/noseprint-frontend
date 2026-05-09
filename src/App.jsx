@@ -5,7 +5,7 @@
 import { useState, useRef, useCallback } from "react";
 
 //const API_URL = "http://127.0.0.1:8000";
-const API_URL = "http://web-production-52cf6.up.railway.app";
+const API_URL = "https://web-production-52cf6.up.railway.app";
 
 // ── Componente: barra de score ────────────────────────────────────────────────
 // Muestra visualmente qué tan similar es un embedding con otro
